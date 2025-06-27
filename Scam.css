@@ -24,13 +24,6 @@
     outline: solid;
     outline-color: #4c4c4c;
     outline-width: 3px;
-  .img {
-    background-image: url(https://images2.imgbox.com/20/04/tjeOKFqp_o.jpg);
-    height: 250px;
-    margin: -30px;
-    margin-top: 33px;
-    background-size: cover;
-    filter: grayscale(1);
 }
 .scam-content {
     margin-top: 50px;
